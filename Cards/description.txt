@@ -1,0 +1,5 @@
+The purpose of this project is to create a playing cards api.
+
+IDEAS:
+ -> Blackjack project
+ -> Setback project
